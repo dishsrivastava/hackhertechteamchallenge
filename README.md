@@ -10,7 +10,9 @@ Feel free to use whatever technologies and Front-End frameworks you feel most co
 
 This project should not take more than a few hours, depend on how far you dive into it. We are only looing for creativity, passion, and dedication. 
 
-# Submission 
+# Submission
+
+-- Due by Saturday, April 13th --
 
 Upload your code to a public GitHub repository and email the link to dishasrivast@umass.edu and nsadeeshkuma@umass.edu. We should be able to run your application in a browser (Chrome) and see what you worked on.
 
