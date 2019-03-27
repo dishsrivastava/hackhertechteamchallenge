@@ -1,5 +1,4 @@
 # HackHer413 2020 Tech Team Challenge
-This is the coding and web development challenge to join the HackHer413 2020 tech team. 
 
 Hi candidate! Thank you so much for applying to be a part of our hackathon tech team. We look forwarding to working with you.
 
