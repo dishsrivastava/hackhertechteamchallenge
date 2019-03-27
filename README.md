@@ -19,6 +19,6 @@ Please provide a detailed ReadMe explaining your project and how you made it (th
 
 This challenge will test your basic programming and web development skills, along with your creativity. We are not looking for perfection, have fun with this project and show us your passion for web dev! 
 
-#Next Steps 
+# Next Steps 
 
-Thank you for submitting your project! Please keep 7:00 pm to 9:00pm on April 14th available for a group interview. 
+Thank you for submitting your project! We will be in touch with you soon. Please keep 7:00 pm to 9:00pm on April 14th available for a group interview. 
