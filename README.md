@@ -8,7 +8,7 @@ Create a quick and simple personal website or resume website that includes the f
 
 Feel free to use whatever technologies and Front-End frameworks you feel most comfortable with. We have included on this repository a template personal website from Bootstrap. Please use this template as a reference, but go beyond this specific template. The hackathon dashboard uses RubyonRails, so try to incorporate that in your project if you can! 
 
-This project should not take more than a few hours, depend on how far you dive into it. We are only looing for creativity, passion, and dedication. 
+This project should not take more than a few hours, depending on how far you dive into it. We are only looing for creativity, passion, and dedication. 
 
 # Submission
 
