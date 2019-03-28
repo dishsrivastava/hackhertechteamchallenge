@@ -2,7 +2,7 @@
 
 Hi candidate! Thank you so much for applying to be a part of our hackathon tech team. We look forwarding to working with you.
 
-# The Challange 
+# The Challenge 
 
 Create a quick and simple personal website or resume website that includes the following: introduction, education, experience, and skills. We encourage you to expand upon these requirements into your leadership expereiences, relevant work experience, education, intersets, awards, or personal projects. 
 
