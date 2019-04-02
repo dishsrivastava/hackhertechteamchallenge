@@ -12,7 +12,7 @@ This project should not take more than a few hours, depending on how far you div
 
 # Submission
 
--- Due by Saturday, April 13th at 11:59 PM EST --
+-- Due by Sunday, April 14th at 11:59 PM EST --
 
 Upload your code to a public GitHub repository and email the link to dishasrivast@umass.edu and nsadeeshkuma@umass.edu. We should be able to run your application in a browser (Chrome) and see what you worked on.
 
@@ -22,4 +22,4 @@ This challenge will test your basic programming and web development skills, alon
 
 # Next Steps 
 
-Thank you for submitting your project! We will be in touch with you soon. Please keep 7:00 pm to 9:00 pm on April 14th available for a group interview at CS303 (Computer Science Building, UMass Amherst). 
+Thank you for submitting your project! We will be in touch with you soon. Please keep 7:00 pm to 9:00 pm on April 15th available for a group interview at CS303 (Computer Science Building, UMass Amherst). 
