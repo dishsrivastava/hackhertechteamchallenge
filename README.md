@@ -22,4 +22,4 @@ This challenge will test your basic programming and web development skills, alon
 
 # Next Steps 
 
-Thank you for submitting your project! We will be in touch with you soon. Please keep 7:00 pm to 9:00 pm on April 15th available for a group interview at CS303 (Computer Science Building, UMass Amherst). 
+Thank you for submitting your project! Please meet us on Monday, APril 15th from 7:00 pm to 9:00 pm for a group interview at CS303 (Computer Science Building, UMass Amherst). 
